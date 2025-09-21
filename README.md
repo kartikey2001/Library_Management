@@ -16,7 +16,7 @@ This system helps you manage a library by:
 
 The system is organized into different parts, each handling a specific job. Here's a visual diagram showing how all the components work together:
 
-![Library Management System Architecture](https://via.placeholder.com/600x400/2d3748/ffffff?text=Library+Management+System+Architecture)
+![Library Management System Architecture](Public/Screenshot 2025-09-21 225221.png)
 
 *This diagram shows the relationships between different parts of the system - how lending connects to inventory, how patrons interact with transactions, and how reservations work.*
 
